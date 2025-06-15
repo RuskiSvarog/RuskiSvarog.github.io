@@ -1,2 +1,0 @@
-# RuskiSvarog.github.io
-website
